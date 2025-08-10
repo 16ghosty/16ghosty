@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @16ghosty
-- 👀 I’m interested in learning data science
+- 👋 Hi, I’m Gautam Marathe
+- Graduate in Data Science, experienced in Visualizations and Data Solutions
 - 📫 Email me
 
 <!---
