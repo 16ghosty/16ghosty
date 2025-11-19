@@ -1,8 +1,8 @@
 # 👋 Hey there, I'm Gautam Marathe
 
-I'm a **Data Scientist and Software Engineer** with 3+ years of hands-on experience across **data science, machine learning, software engineering**, and **ML/Cybersecurity research**. My journey has been a blend of **backend engineering, predictive modeling, cloud computing**, and **LLM robustness research**, driven by my curiosity and love for **programming, math, and problem-solving**.
+I'm a **Data Scientist and Software Engineer** with 3+ years of hands-on experience across **data science, machine learning, software engineering**, My journey has been a blend of **backend engineering, predictive modeling, cloud computing**, and **LLM robustness research**, driven by my curiosity and love for **programming, math, and problem-solving**.
 
-Currently, I am working as a **Graduate Research Assistant**, exploring the fascinating intersection of **large language models, adversarial robustness, and multimodal learning**.
+Currently, I am  exploring the fascinating intersection of **large language models, adversarial robustness, and multimodal learning**.
 
 ---
 
@@ -10,7 +10,6 @@ Currently, I am working as a **Graduate Research Assistant**, exploring the fasc
 
 - **Neural Volatility Forecasting**: Combining time series modeling and deep learning to predict market volatility with higher accuracy.
 - **Domain-Agnostic Chatbots**: Dynamically adapting to selected domains via **generative distilled models**.
-- **Neuro-Symbolic Reasoning in LLMs**: Blending symbolic logic with deep learning to improve reasoning and commonsense understanding.
 - **Custom Loss Functions**: Improving multimodal alignment in **LLMs**.
 
 ---
