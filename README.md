@@ -44,8 +44,8 @@ A financial modeling tool that uses the Capital Asset Pricing Model (CAPM) to op
 ### 🤖 [Sentiment Analysis](https://github.com/16ghosty/Sentiment-Analysis)
 A machine learning project focused on analyzing textual data to determine sentiment polarity, useful for market research and social monitoring.
 
-### 📈 [Bond Pricing Model using ESG](https://github.com/16ghosty/Bond-Pricing-Model-using-ESG)
-Incorporating Environmental, Social, and Governance (ESG) factors into traditional bond pricing models to evaluate sustainable investment opportunities.
+### 📈 [ETF Portfolio Allocation Pricing Model](https://github.com/16ghosty/Bond-Pricing-Model-using-ESG)
+Incorporating Environmental, Social, and Governance (ESG) factors into traditional ETF pricing models to evaluate sustainable investment opportunities.
 
 ### 🏭 [Manufacturing Classification Model](https://github.com/16ghosty/Manufacturing-Classification-Model)
 A classification model designed to predict manufacturing defects or outcomes, optimizing quality control processes.
